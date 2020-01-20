@@ -1,4 +1,4 @@
-## Welcome to the Biostatistics page of the Plant Systems Biology department
+## Welcome to the Biostatistics Page of the Plant Systems Biology Department
 
 You can use the [editor on GitHub](https://github.com/vstorme/vstorme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
