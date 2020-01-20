@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/vstorme/vstorme.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This site hosts slides and demo code from various workshops given in the Department.
+This site provides links to some basic statistical information and hosts slides and demo code from various workshops given in the Department.
+
+[Data Entry](data_entry.md)
 
 [Differential Gene Expression with edgeR](edgeR.md)
 
