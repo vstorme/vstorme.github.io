@@ -8,7 +8,7 @@ This site provides links to some basic statistical information and hosts slides 
 
 [Data Entry](data_entry.md)
 
-[Differential Gene Expression with edgeR](edgeR.md)
+[Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
 
 ### Markdown
 
