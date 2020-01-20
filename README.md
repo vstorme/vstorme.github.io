@@ -1,9 +1,5 @@
 ## Welcome to the Biostatistics Page of the Plant Systems Biology Department
 
-You can use the [editor on GitHub](https://github.com/vstorme/vstorme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 This site provides links to some basic statistical information and hosts slides and demo code from various workshops given in the Department.
 
 [Data Entry](data_entry.md)
