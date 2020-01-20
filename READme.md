@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/vstorme/vstorme.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This site hosts slides and demo code from various workshops given in the Department.
+
+[Differential Gene Expression with edgeR](edgeR.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
