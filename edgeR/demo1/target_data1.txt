@@ -1,0 +1,7 @@
+files	group	description
+control1.txt	control	control day 1
+control2.txt	control	control day 2
+control3.txt	control	control day 3
+treated1.txt	treated	treated day 1
+treated2.txt	treated	treated day 2
+treated3.txt	treated	treated day 3
