@@ -7,3 +7,4 @@ relative_links:
 include:
  - README.md
  - data_entry.md
+ - FileNaming.md
