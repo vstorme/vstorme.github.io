@@ -8,4 +8,6 @@ This site provides links to some basic statistical information and hosts slides 
 
 [Statistics for Biologists by Nature](NaturePapers.md)
 
+[Choosing the correct Statistical Test](StatTest.md)
+
 [Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
