@@ -13,3 +13,13 @@ include:
  - workshops.md
  - seminars.md
  - links.md
+ 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/veronique-storme-0815736/"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/CVS_UGent"
