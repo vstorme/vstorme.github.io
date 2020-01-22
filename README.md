@@ -10,4 +10,10 @@ This site provides links to some basic statistical information and hosts slides 
 
 [Choosing the correct Statistical Test](StatTest.md)
 
+[Workshops at PSB](workshops.md)
+
+[Statistical seminars at PSB](seminars.md)
+
+[Links](links.md)
+
 [Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
