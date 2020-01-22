@@ -4,6 +4,8 @@ This site provides links to some basic statistical information and hosts slides 
 
 [Data Entry](data_entry.md)
 
-[Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
-
 [File Naming](FileNaming.md)
+
+[Statistics for Biologists by Nature](NaturePapers.md)
+
+[Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
