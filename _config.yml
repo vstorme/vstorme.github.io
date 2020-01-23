@@ -4,7 +4,7 @@ email: veronique.storme@psb.ugent.be
 theme: jekyll-theme-slate
 twitter_username: CVS_UGent
 github_username:  vstorme
-url: "https://bedroesb.github.io/vstorme.github.io/"
+url: "https://vstorme.github.io/"
 plugins:
  - jekyll-relative-links
 relative_links:
