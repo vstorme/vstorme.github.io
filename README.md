@@ -15,3 +15,6 @@ This site provides links to some basic statistical information and hosts slides 
 [Statistical seminars at PSB](seminars.md)
 
 [Links](links.md)
+
+
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email!</a>
