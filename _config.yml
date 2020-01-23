@@ -1,14 +1,17 @@
  
-
-
+title: PSB Biostatistics Page
+email: veronique.storme@psb.ugent.be
 theme: jekyll-theme-slate
+twitter_username: CVS_UGent
+github_username:  vstorme
+url: "https://bedroesb.github.io/vstorme.github.io/"
 plugins:
  - jekyll-relative-links
 relative_links:
  enabled: true
  collections: true
 include:
- - README.md
+ - index.md
  - data_entry.md
  - FileNaming.md
  - NaturePapers.md
