@@ -1,15 +1,4 @@
- owner:
- name: Veronique Storme
- avatar: 
- bio: "This is an academic website."
- email: veronique.storme@psb.ugent.be
- # Do not include the @ symbol in your Twitter username
- twitter: CVS_UGent
- linkedin: veronique-storme-0815736
- github: vstorme
- orcid: 0000-0003-4762-6580
- google:
-    scholar: Veronique Storme
+ 
 
 
 theme: jekyll-theme-slate
