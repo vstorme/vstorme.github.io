@@ -17,4 +17,4 @@ This site provides links to some basic statistical information and hosts slides 
 [Links](links.md)
 
 
-<a href="https://twitter.com/CVS_UGent?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CVS_UGent</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/CVS_UGent?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CVS_UGent</a>
