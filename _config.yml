@@ -4,6 +4,7 @@ email: veronique.storme@psb.ugent.be
 theme: jekyll-theme-slate
 twitter_username: CVS_UGent
 github_username:  vstorme
+linkedin_username: veronique-storme-0815736
 url: "https://vstorme.github.io/"
 plugins:
  - jekyll-relative-links
@@ -19,4 +20,9 @@ include:
  - workshops.md
  - seminars.md
  - links.md
+ 
+ footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/veronique-storme-0815736/
+    icon: fab fa-twitter-square
     
