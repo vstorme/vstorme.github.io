@@ -6,7 +6,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    ul.share-buttons{
+      list-style: none;
+      padding: 0;
+    }
+    
+    ul.share-buttons li{
+      display: inline;
+    }
+    
+    ul.share-buttons .sr-only{
+      position: absolute;
+      clip: rect(1px 1px 1px 1px);
+      clip: rect(1px, 1px, 1px, 1px);
+      padding: 0;
+      border: 0;
+      height: 1px;
+      width: 1px;
+      overflow: hidden;
+    }
+    </style>
 {% seo %}
   </head>
 
@@ -38,7 +58,13 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% include social-media-links.html %}
+        <ul class="share-buttons">
+          <li><a href="https://twitter.com/CVS_UGent" target="_blank" title="Tweet"><img alt="Tweet" src="_icons/socialmedia/twitter.png" /></a></li>
+          <li><a href="https://www.linkedin.com/in/veronique-storme-0815736/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="_icons/socialmedia/LinkedIn.png" /></a></li>
+          <li><a href="mailto:veronique.storme@psb.ugent.be" target="_blank" title="Send email"><img alt="Send email" src="_icons/socialmedia/email.png" /></a></li>
+          <li><a href="https://github.com/vstorme" target="_blank" title="Github"><img alt="GitHub" src="_icons/socialmedia/github.png" /></a></li>
+          <li><a href="https://orcid.org/0000-0003-4762-6580" target="_blank" title="ORCID"><img alt="ORCID" src="_icons/socialmedia/ORCID.png" /></a></li>
+        </ul>
       </footer>
     </div>
 
