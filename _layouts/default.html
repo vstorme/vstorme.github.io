@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style>
-    ul.share-buttons{
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <link rel="stylesheet" type="text/css" media="screen"
+    href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <style>
+    ul.share-buttons {
       list-style: none;
       padding: 0;
     }
-    
-    ul.share-buttons li{
+
+    ul.share-buttons li {
       display: inline;
     }
-    
-    ul.share-buttons .sr-only{
+
+    ul.share-buttons .sr-only {
       position: absolute;
       clip: rect(1px 1px 1px 1px);
       clip: rect(1px, 1px, 1px, 1px);
@@ -30,42 +31,82 @@
     img {
       border: 0;
       box-shadow: none;
-      -webkit-box-shadow: none; 
+      -webkit-box-shadow: none;
       -moz-box-shadow: none;
       -o-box-shadow: none;
       -ms-box-shadow: none;
-  }
-    </style>
-{% seo %}
-  </head>
-  <body>
+    }
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="project_title">PSB Biostatistics Page</h1> 
-          <a href="{{ site.url }}">Home</a>
-        </header>
-    </div>
+    a.button1 {
+      display: inline-block;
+      padding: 0.35em 1.2em;
+      border: 0.1em solid #FFFFFF;
+      margin: 0 0.3em 0.3em 0;
+      border-radius: 0.12em;
+      box-sizing: border-box;
+      text-decoration: none;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
+      color: #FFFFFF;
+      text-align: center;
+      transition: all 0.2s;
+    }
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
+    a.button1:hover {
+      color: #000000;
+      background-color: #FFFFFF;
+    }
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <ul class="share-buttons">
-          <li><a href="https://twitter.com/CVS_UGent" target="_blank" title="Tweet"><img alt="Tweet" src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/twitter.png" /></a></li>
-          <li><a href="https://www.linkedin.com/in/veronique-storme-0815736/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/linkedIn.png" /></a></li>
-          <li><a href="mailto:veronique.storme@psb.ugent.be" target="_blank" title="Send email"><img alt="Send email" src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/email.png" /></a></li>
-          <li><a href="https://github.com/vstorme" target="_blank" title="Github"><img alt="GitHub" src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/github.png" /></a></li>
-          <li><a href="https://orcid.org/0000-0003-4762-6580" target="_blank" title="ORCID"><img alt="ORCID" src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/orcid.png" /></a></li>
-        </ul>
-      </footer>
-    </div>
-  </body>
+    @media all and (max-width:30em) {
+      a.button1 {
+        display: block;
+        margin: 0.4em auto;
+      }
+    }
+  </style>
+  {% seo %}
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+    <header class="inner">
+      <h1 id="project_title">PSB Biostatistics Page</h1>
+      <a href="{{ site.url }}" class="button1">Home</a>
+    </header>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+      {{ content }}
+    </section>
+  </div>
+
+  <!-- FOOTER  -->
+  <div id="footer_wrap" class="outer">
+    <footer class="inner">
+      <ul class="share-buttons">
+        <li><a href="https://twitter.com/CVS_UGent" target="_blank" title="Tweet"><img alt="Tweet"
+              src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/twitter.png" /></a>
+        </li>
+        <li><a href="https://www.linkedin.com/in/veronique-storme-0815736/" target="_blank"
+            title="Share on LinkedIn"><img alt="Share on LinkedIn"
+              src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/linkedIn.png" /></a>
+        </li>
+        <li><a href="mailto:veronique.storme@psb.ugent.be" target="_blank" title="Send email"><img alt="Send email"
+              src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/email.png" /></a>
+        </li>
+        <li><a href="https://github.com/vstorme" target="_blank" title="Github"><img alt="GitHub"
+              src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/github.png" /></a>
+        </li>
+        <li><a href="https://orcid.org/0000-0003-4762-6580" target="_blank" title="ORCID"><img alt="ORCID"
+              src="https://raw.githubusercontent.com/bedroesb/vstorme.github.io/master/_icons/socialmedia/orcid.png" /></a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+</body>
+
 </html>
