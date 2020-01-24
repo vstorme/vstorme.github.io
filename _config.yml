@@ -21,8 +21,4 @@ include:
  - seminars.md
  - links.md
  
- footer_links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/veronique-storme-0815736/
-    icon: fab fa-twitter-square
     
