@@ -19,3 +19,7 @@ This site provides links to some basic statistical information and hosts slides 
 [Statistical seminars at PSB](seminars.md)
 
 [Links](links.md)
+
+<a href="https://training.vib.be/home/category/bioinformatics-19"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/vibtraining_notag_pos_rgb.png" width="15%"></a> 	&emsp;
+
+
