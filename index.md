@@ -20,8 +20,6 @@ This site provides links to some basic statistical information and hosts slides 
 
 Find more courses on:
 
-<div id="ButtonBarDivUnit" class="ButtonBarDiv">
-<div id="imagecontainer">  
-<a href="https://training.vib.be/home/category/bioinformatics-19" ><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/vibtraining_notag_pos_rgb.png" width="15%"></a> 	&emsp; <a href="https://www.flames-statistics.com/"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/logo_Flames_white.png" width="15%"></a> 	&emsp; <a href="https://www.ugent.be/we/en/services/ICES"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/ugent_ICES_logo.png" width="15%"></a> 	&emsp; <a href="https://www.ugent.be/statistics/en"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/ugent_cvs_logo.png" width="15%"></a> 	&emsp;
-</div>
+
+<a href="https://training.vib.be/home/category/bioinformatics-19" ><img src="https://raw.githubusercontent.com/vstorme/vstorme.github.io/master/_icons/vibtraining_notag_pos_rgb.png" width="15%"></a> 	&emsp; <a href="https://www.flames-statistics.com/"><img src="https://raw.githubusercontent.com/vstorme/vstorme.github.io/master/_icons/logo_Flames_white.png" width="15%"></a> 	&emsp; <a href="https://www.ugent.be/we/en/services/ICES"><img src="https://raw.githubusercontent.com/vstorme/vstorme.github.io/master/_icons/ugent_ICES_logo.png" width="15%"></a> 	&emsp; <a href="https://www.ugent.be/statistics/en"><img src="https://raw.githubusercontent.com/vstorme/vstorme.github.io/master/_icons/ugent_cvs_logo.png" width="15%"></a> 	&emsp;
 
