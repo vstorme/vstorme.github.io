@@ -14,9 +14,9 @@ This site provides links to some basic statistical information and hosts slides 
 
 [Choosing the correct Statistical Test](StatTest.md)
 
-[Workshops at PSB](workshops.md)
-
 [Statistical seminars at PSB](seminars.md)
+
+[Workshops at PSB](workshops.md)
 
 > Find more courses on:
 
