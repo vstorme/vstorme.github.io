@@ -26,5 +26,5 @@ Find more courses on:
 
 <a href="https://www.ugent.be/we/en/services/ICES"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/ugent_ICES_logo.png" width="15%"></a> 	&emsp;
 
-<a href="https://www.ugent.be/statistics/en"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/vibtraining_notag_pos_rgb.png" width="15%"></a> 	&emsp;
+<a href="https://www.ugent.be/statistics/en"><img src="https://github.com/vstorme/vstorme.github.io/blob/master/_icons/ugent_cvs_logo.png" width="15%"></a> 	&emsp;
 
