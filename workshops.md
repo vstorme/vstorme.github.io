@@ -6,4 +6,4 @@ title: Workshops at PSB
 
 [Basic Statistics Course with R and Rstudio](https://github.com/vstorme/basicstat)
 
-[Differential Gene Expression with edgeR](https://github.com/vstorme/edgeR)
+Differential Expression Analysis with edgeR: This course is available on https://ufora.ugent.be/ with voiceover presentations and demos.
